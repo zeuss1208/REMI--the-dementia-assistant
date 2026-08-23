@@ -1,0 +1,6 @@
+{
+  "name": "REMI - Personal Memory Companion",
+  "description": "An AI-powered personal memory companion designed to help people with dementia remember what matters through calm, ambient observation, person recognition, and gentle context reconnection.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
